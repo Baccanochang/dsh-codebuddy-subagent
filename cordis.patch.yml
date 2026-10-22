@@ -1,0 +1,9 @@
+- insert:
+    - id: subagent-codebuddy
+      name: '@local/dsh-subagent-codebuddy'
+    - id: tool-subagent-codebuddy
+      name: '@deepseek-ai/dsh-tool-subagent'
+      config:
+        provider: codebuddy
+        toolName: subagent_codebuddy
+        maxDepth: provider-managed

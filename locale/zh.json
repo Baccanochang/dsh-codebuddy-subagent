@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "CodeBuddy 子代理",
+    "description": "通过 Agent Client Protocol 将单个任务委派给 CodeBuddy，使用其原生登录与设置。"
+  }
+}
